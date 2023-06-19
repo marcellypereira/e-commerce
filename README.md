@@ -1,35 +1,34 @@
-
-O layout do projeto foi prototipado no [Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
+The project layout was prototyped in [Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
 
 ##
-🚧 Comandos essenciais
+🚧 Essential commands
 
 ###
- Execute o seguinte comando para instalar o Create React App globalmente em seu sistema:
+  Run the following command to install Create React App globally on your system:
 ###
 ```bash
 npm install -g create-react-app
 ```
 
-Execute o seguinte comando para criar um novo projeto React:
+Run the following command to create a new React project:
 ```bash
-npx create-react-app nome-do-projeto
+npx create-react-app project-name
 ```
 
-▶️ Rodando o Projeto
+▶️ Running the Project
 
-Execute o seguinte comando para rodar o projeto:
+Run the following command to run the project:
 ```bash
 npm start
 ```
 ##
-🚨 Veja o resultado
+🚨 See the result
 ###
-<img  src="https://github.com/marcellypereira/e-commerce/assets/116754560/09f1249f-ee92-474f-bde1-d26445e759ca" alt='img'  width="650px" height="450px"/>
+<img src="https://github.com/marcellypereira/e-commerce/assets/116754560/09f1249f-ee92-474f-bde1-d26445e759ca" alt='img' width="650px" height="450px"/>
 
-👩‍💻  Autora 
+👩‍💻 Author
 
 ###
 Marcelly Pereira 💅
 
-<p align="center">Desenvolvido com 💜</p>
+<p align="center">Powered by 💜</p>
