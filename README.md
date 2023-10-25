@@ -35,13 +35,13 @@ O projeto envolve a criação de um site de uma página de produto, utilizando R
 ## :bricks: Instalação
 
 ###
-  instale o aplicativo Create React globalmente:
+  Instale o aplicativo Create React globalmente:
 ###
 ```bash
 npm install -g create-react-app
 ```
 
-crie um novo projeto React:
+Crie um novo projeto React:
 ```bash
 npx create-react-app project-name
 ```
