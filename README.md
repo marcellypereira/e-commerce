@@ -22,7 +22,7 @@
 Você pode acessar o layout do projeto no link abaixo:
 
 * [Layout](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)
-* Você precisa ter uma conta no [Frontend Mentor](https://www.frontendmentor.io/challenges) para acessar o layout.
+* Você precisa ter uma conta no [Frontend Mentor](https://hiring.frontendmentor.io/signin) para acessar o layout.
 
 
 O projeto envolve a criação de um site de uma página de produto, utilizando React.js.
