@@ -30,7 +30,7 @@ O projeto envolve a criação de um site de uma página de produto, utilizando R
 
 * [Javascript](https://www.javascript.com/)
 * [Node.js](https://nodejs.org/en/)
-* [React JS](https://pt-br.legacy.reactjs.org/docs/getting-started.html)
+* [React](https://pt-br.legacy.reactjs.org/docs/getting-started.html)
 
 ## :bricks: Instalação
 
