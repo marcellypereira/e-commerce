@@ -1,12 +1,5 @@
 <p align="center">
-  <h3 align="center">E-commerce</h3>
-  <div align="center">
-   <table>
-    <tr>
-      <td><img src="https://github.com/marcellypereira/e-commerce/assets/116754560/09f1249f-ee92-474f-bde1-d26445e759ca" alt='img' width="650px" height="450px"/></td>
-    </tr>
-  </table>
-</div>
+  <h3 align="center">E-commerce</h3>    
 
  <p align="center">
     Este site foi desenvolvido como um projeto de estudo.
@@ -52,6 +45,7 @@ Execute o seguinte comando para executar o projeto:
 ```bash
 npm start
 ```
+![ecommerce](https://github.com/user-attachments/assets/24116f86-8461-47c0-914b-48473b5ac246)
 
 
 <p align="center">Desenvolvido por Marcelly Pereira 💜</p>
