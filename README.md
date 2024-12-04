@@ -25,26 +25,13 @@ O projeto envolve a criação de um site de uma página de produto, utilizando R
 * [Node.js](https://nodejs.org/en/)
 * [React](https://pt-br.legacy.reactjs.org/docs/getting-started.html)
 
-## :bricks: Instalação
+## :rocket: Como rodar o projeto:
 
-###
-  Instale o aplicativo Create React globalmente:
-###
-```bash
-npm install -g create-react-app
-```
-
-Crie um novo projeto React:
-```bash
-npx create-react-app project-name
-```
-
-## :arrow_forward: Execução
-
-Execute o seguinte comando para executar o projeto:
-```bash
-npm start
-```
+1. Clone o repositório para sua máquina local.
+2. Navegue até a pasta do projeto utilizando o terminal.
+3. Verifique se está utilizando a última versão do Node.js.
+4. Execute o comando `npm install` para instalar as dependências necessárias.
+5. Por fim, inicie o servidor de desenvolvimento executando o comando `npm start`.
 ![ecommerce](https://github.com/user-attachments/assets/24116f86-8461-47c0-914b-48473b5ac246)
 
 
