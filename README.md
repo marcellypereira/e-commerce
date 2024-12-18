@@ -33,8 +33,10 @@ O projeto envolve a criação de um site de uma página de produto, utilizando R
 3. Verifique se está utilizando a última versão do Node.js.
 4. Execute o comando `npm install` para instalar as dependências necessárias.
 5. Por fim, inicie o servidor de desenvolvimento executando o comando `npm start`.
-![ecommerce](https://github.com/user-attachments/assets/24116f86-8461-47c0-914b-48473b5ac246)
+
+
+
+![e-commerce](https://github.com/user-attachments/assets/0247f937-9896-4e80-9eb6-4fe560bea34f)
 
 
 <p align="center">Desenvolvido por Marcelly Pereira 💜</p>
-
